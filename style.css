@@ -16,4 +16,7 @@ main{
     transform: translate(-50%, -50%);
     text-align: center;
     margin-top:2%;
+    background-color: black;
+    opacity: 50%;
+    color:white;
 }
